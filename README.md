@@ -25,27 +25,13 @@ Disfruto trabajar en entornos **ágiles y dinámicos**, aportando valor tanto en
 
 ## 📌 Proyectos Destacados
 
-### 🔹 [Solvex Company Helpdesk Platform](https://github.com/solvex-company/solvex-front)
-📅 Junio 2025 - Agosto 2025  
+<p align="center">
 
-Plataforma de resolución de incidencias (Helpdesk) para empresas.  
-- Implementación del **Frontend con Next.js, TypeScript y Tailwind CSS**  
-- Creación de **componentes reutilizables**  
-- Integración con **API en tiempo real**  
-- Funcionalidades de búsqueda, filtrado y paginación  
+| 🔹 [Solvex Company Helpdesk Platform](https://github.com/solvex-company/solvex-front) | 🔹 [L-tronics E-commerce](https://github.com/Franki09/PM4FE-Franki09) |
+|:---:|:---:|
+| 📅 Junio 2025 - Agosto 2025<br>Plataforma de resolución de incidencias (Helpdesk) para empresas.<br>- Frontend con **Next.js, TypeScript y Tailwind CSS**<br>- **Componentes reutilizables**<br>- Integración con **API en tiempo real**<br>- Búsqueda, filtrado y paginación<br>🔗 [Deploy](https://solvex-front.vercel.app/) | 📅 Mayo 2025 - Junio 2025<br>Aplicación E-commerce con flujo completo de usuario.<br>- Interfaces con **Next.js, TypeScript y Tailwind CSS**<br>- **API REST con Express**<br>- **Autenticación y autorización** de usuarios<br>- Base de datos en **PostgreSQL** y despliegue en Vercel<br>🔗 [Deploy](https://proyecto-m4-eight.vercel.app/) |
 
-🔗 [Deploy del proyecto](https://solvex-front.vercel.app/)
-
-### 🔹 [L-tronics E-commerce](https://github.com/Franki09/PM4FE-Franki09)
-📅 Mayo 2025 - Junio 2025  
-
-Aplicación E-commerce con flujo completo de usuario.  
-- Interfaces con **Next.js, TypeScript y Tailwind CSS**  
-- **API REST con Express**  
-- **Autenticación y autorización** de usuarios  
-- Base de datos en **PostgreSQL** y despliegue en Vercel  
-
-🔗 [Deploy del proyecto](https://proyecto-m4-eight.vercel.app/)
+</p>
 
 ---
 
@@ -60,8 +46,8 @@ Aplicación E-commerce con flujo completo de usuario.
 
 <p align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Franki09&show_icons=true&theme=radical)](https://github.com/Franki09)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franki09&layout=compact&theme=radical)](https://github.com/Franki09)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Franki09&show_icons=true&theme=radical)](https://github.com/Franki09)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franki09&layout=compact&theme=radical)](https://github.com/Franki09)  
+
 
 </p>
 
