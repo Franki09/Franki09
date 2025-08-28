@@ -21,25 +21,25 @@ Disfruto trabajar en entornos **ágiles y dinámicos**, aportando valor tanto en
 
 ## 📌 Proyectos Destacados  
 
-### 🔹 [Solvex Company Helpdesk Platform](https://solvex-front.vercel.app/)  
+### 🔹 [Solvex Company Helpdesk Platform](hhttps://github.com/solvex-company/solvex-front)  
 📅 Junio 2025 - Agosto 2025  
 Plataforma de resolución de incidencias (Helpdesk) para empresas.  
 - Implementación del **Frontend con Next.js, TypeScript y Tailwind CSS**  
 - Creación de **componentes reutilizables**  
 - Integración con **API en tiempo real**  
-- Funcionalidades de búsqueda, filtrado y paginación  
-🔗 [Repositorio](https://github.com/solvex-company/solvex-front)  
+- Funcionalidades de búsqueda, filtrado y paginación 
+🔗 [Deploy del proyecto](https://solvex-front.vercel.app/)  
 
 ---
 
-### 🔹 [L-tronics E-commerce](https://proyecto-m4-eight.vercel.app/)  
+### 🔹 [L-tronics E-commerce](https://github.com/Franki09/PM4FE-Franki09)  
 📅 Mayo 2025 - Junio 2025  
 Aplicación E-commerce con flujo completo de usuario.  
 - Interfaces con **Next.js, TypeScript y Tailwind CSS**  
 - **API REST con Express**  
 - **Autenticación y autorización** de usuarios  
 - Base de datos en **PostgreSQL** y despliegue en Vercel  
-🔗 [Repositorio](https://github.com/Franki09/PM4FE-Franki09)  
+🔗 [Deploy del proyecto](https://proyecto-m4-eight.vercel.app/)  
 
 ---
 
@@ -47,7 +47,6 @@ Aplicación E-commerce con flujo completo de usuario.
 
 - ✉️ **Email:** fgomezrosell@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/franco-gómez-rosell)  
-- 🖥️ [GitHub](https://github.com/Franki09)  
 
 ---
 
